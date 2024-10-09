@@ -14,7 +14,7 @@
 </div>
 <br>
 
-# ARCore-Template
+# 3D-AR-Gemini
 
 [ARCore](https://developers.google.com/ar)
 
