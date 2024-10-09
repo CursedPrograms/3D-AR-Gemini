@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Floor
+  - Character
+  - Glove
+  - Target
   layers:
   - Default
   - TransparentFX
@@ -13,6 +17,9 @@ TagManager:
   - UI
   - 
   - 
+  - AR background
+  - AR background 2
+  - AR foreground
   - 
   - 
   - 
@@ -33,9 +40,6 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - XR Simulation
   - 
   m_SortingLayers:
   - name: Default
